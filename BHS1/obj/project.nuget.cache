@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeHGFxyqENI=",
+  "success": true,
+  "projectFilePath": "/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/BHS1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sokol/.nuget/packages/leopotam.ecs/1.0.1/leopotam.ecs.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

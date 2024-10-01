@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Leopotam.Ecs/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Leopotam.Ecs.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Leopotam.Ecs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leopotam.Ecs/1.0.1": {
+      "sha512": "ypxVtnCr1llfJ032+TS7wmQukIZWtXPFg4LJu0JIAlC00GD6CDL4ueVQfSeSzecWNwbnn1psbqf/dD/wIliPPw==",
+      "type": "package",
+      "path": "leopotam.ecs/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "leopotam.ecs.1.0.1.nupkg.sha512",
+        "leopotam.ecs.nuspec",
+        "lib/netstandard2.0/Leopotam.Ecs.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Leopotam.Ecs >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sokol/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/BHS1.csproj",
+      "projectName": "BHS1",
+      "projectPath": "/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/BHS1.csproj",
+      "packagesPath": "/Users/sokol/.nuget/packages/",
+      "outputPath": "/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sokol/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Leopotam.Ecs": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

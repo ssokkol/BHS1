@@ -1,0 +1,17 @@
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/BHS1
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/BHS1.deps.json
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/BHS1.runtimeconfig.json
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/BHS1.dll
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/BHS1.pdb
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.AssemblyInfoInputs.cache
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.AssemblyInfo.cs
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.csproj.CoreCompileInputs.cache
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.dll
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/refint/BHS1.dll
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.pdb
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.genruntimeconfig.cache
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/ref/BHS1.dll
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/bin/Debug/net8.0/Leopotam.Ecs.dll
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.csproj.AssemblyReference.cache
+/Users/sokol/Desktop/scripts/C#/BHS1/BHS1/obj/Debug/net8.0/BHS1.csproj.Up2Date
